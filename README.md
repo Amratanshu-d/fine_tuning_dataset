@@ -6,7 +6,6 @@ Dataset prepared for fine-tuning a conversational chatbot model.
 ## Sources
 | Source | Type | License |
 |---|---|---|
-| [OpenAssistant oasst2](https://huggingface.co/datasets/OpenAssistant/oasst2) | Human-written, human-ranked conversations | Apache 2.0 |
 | [UltraChat 200k](https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k) | ChatGPT-generated conversations | MIT |
 
 ## Files
@@ -36,4 +35,3 @@ Each line is one JSON conversation:
 - General-purpose conversational data only — no company/domain-specific content
 - UltraChat content is synthetic (ChatGPT-generated), not human-written
 - English only
-- 
